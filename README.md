@@ -1,5 +1,9 @@
-### Hi there 👋
 
+<p align="center" width="100%">
+    <img  src="https://github.com/Salah3id/Salah3id/blob/main/salah3id.png?raw=true"> 
+</p>
+
+![Salah's github stats](https://github-readme-stats.vercel.app/api?username=Salah3id&hide=stars,issues&show_icons=true&count_private=true)
 <!--
 **Salah3id/Salah3id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
