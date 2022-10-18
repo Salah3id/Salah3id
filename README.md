@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on [CRM & ERP Systems For The MarQ Communities](https://themarqcommunities.com/)
 
-- 👨‍💻 All of my projects are available at [acairo.com](acairo.com)
-
 - 📝 I regularly write articles on [LinkedIn Profile](https://www.linkedin.com/in/salah3id/)
 
 - 💬 Ask me about **Software Solutions and Hosting Websites**
 
 - 📫 How to reach me **salah@acairo.com**
 
-- 📄 Know about my experiences [Acairo](acairo.com/about)
+- 📄 Know about my experiences [Acairo](https://acairo.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
