@@ -1,6 +1,6 @@
 
-<p align="center" width="50%">
-    <img  src="https://github.com/Salah3id/Salah3id/blob/main/salah3id.png?raw=true"> 
+<p align="center" width="100%">
+    <img width="200px" src="https://github.com/Salah3id/Salah3id/blob/main/salah3id.png?raw=true"> 
 </p>
 
 ![Salah's github stats](https://github-readme-stats.vercel.app/api?username=Salah3id&hide=stars,issues&show_icons=true&count_private=true)
