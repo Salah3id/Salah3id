@@ -1,5 +1,5 @@
 
-<p align="center" width="100%">
+<p align="center" width="50%">
     <img  src="https://github.com/Salah3id/Salah3id/blob/main/salah3id.png?raw=true"> 
 </p>
 
